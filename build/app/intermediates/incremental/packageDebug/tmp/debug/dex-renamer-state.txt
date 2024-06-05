@@ -1,0 +1,4 @@
+#Wed Jun 05 10:09:11 WIB 2024
+base.0=D\:\\Flutter_BasmidaLaia\\onlineshopbasmida\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
